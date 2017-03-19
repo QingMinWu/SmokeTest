@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<testlist>
+<testunit>
+<moudlename>xiaohu</moudlename>
+<filename>xiaohu.jmx</filename>
+<name>销户</name>
+</testunit>
+<testunit>
+<moudlename>newaccept</moudlename>
+<filename>gxsoa-test.jmx</filename>
+<name>销户</name>
+</testunit>
+</testlist>  
